@@ -156,5 +156,37 @@ Gran comunidad y documentación.
 Compatible con software comercial.
 
 Uso y aplicaciones: Escritorios, servidores, nube, IoT.
+Alpine Linux
+
+Historia: Creada en 2005, enfocada en seguridad y ligereza.
+
+Qué es: Una distro mínima y ligera.
+
+Características:
+
+Usa musl libc y busybox (alternativas ligeras a GNU).
+
+Tamaño reducido (unos pocos MB).
+
+Seguridad reforzada.
+
+Uso y aplicaciones: Muy usada en contenedores Docker, sistemas embebidos y seguridad.
+
+AlmaLinux
+
+Historia: Creada en 2021 por CloudLinux como respuesta a la desaparición de CentOS clásico.
+
+Qué es: Un clon binario 1:1 compatible con RHEL.
+
+Características:
+
+Estabilidad empresarial.
+
+Comunidad y soporte a largo plazo.
+
+Compatibilidad garantizada con software para RHEL.
+
+Uso y aplicaciones: Sustituto de CentOS en entornos empresariales y servidores.
+
 
 
