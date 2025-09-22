@@ -1,4 +1,4 @@
-# 📚 Exposición - Sistemas Operativos y Herramientas
+# Sistemas Operativos y Herramientas
 
 ## 1️⃣ Investigación de Sistemas Operativos
 
