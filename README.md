@@ -117,11 +117,5 @@
     <li>Cumplimiento de políticas de seguridad informática.</li>
   </ul>
 
-  <hr>
-
-  <p><strong>Autor:</strong> [Tu nombre o equipo]</p>
-  <p><strong>Fecha:</strong> Octubre 2025</p>
-  <p><strong>Herramientas:</strong> Nmap, Linux (Ubuntu)</p>
-
 </body>
 </html>
