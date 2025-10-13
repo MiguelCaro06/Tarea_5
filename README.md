@@ -13,10 +13,9 @@
 
   <h2>1. Punto 1 — PDF adjunto</h2>
   <p>
-    El <strong>PDF “Tarea 5”</strong> adjunto contiene la <strong>solución del primer punto del taller</strong>,
-    que corresponde a la investigación sobre <strong>los tipos de sistemas operativos que existen en el mercado</strong>.
-    En dicho documento se clasifican los sistemas operativos, se describen sus principales características y se presentan
-    ejemplos representativos de cada tipo.
+    El Punto 1 – Tipos de Sistemas Operativos
+
+El PDF “Tarea 5” contiene la solución completa del primer punto del taller, donde se investigan los tipos de sistemas operativos existentes en el mercado, su historia, y su uso principal.
   </p>
 
   <hr>
