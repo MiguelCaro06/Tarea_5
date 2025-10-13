@@ -83,7 +83,6 @@
 
   <hr>
 
-  <p><strong>Fin del documento</strong></p>
 
 </body>
 </html>
